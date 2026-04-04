@@ -176,8 +176,5 @@ This project is licensed under the ISC License.
 - POST /login
 - GET /profile
 
-## 📸 Screenshots / Demo
-(Add images or video link)
-
 ## 👨‍💻 Author
-Yash
+Yash Gaikwad

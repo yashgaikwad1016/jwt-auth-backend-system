@@ -153,10 +153,10 @@ EMAIL_PASS=your-app-password
 ```
 
 ## UI Screenshots
+<img width="1800" height="896" alt="image" src="https://github.com/user-attachments/assets/dcb753fa-a2a4-414e-9a25-54ca5f3332ec" />
+<img width="942" height="934" alt="image" src="https://github.com/user-attachments/assets/a952aa3b-144e-4bda-a7f8-2d5016f83de9" />
 <img width="381" height="351" alt="image" src="https://github.com/user-attachments/assets/32fadff7-b534-4d02-9232-71bb0efde75c" />
 <img width="1561" height="985" alt="image" src="https://github.com/user-attachments/assets/c7aa143d-2989-4b05-8f25-1f770e020f07" />
-<img width="942" height="934" alt="image" src="https://github.com/user-attachments/assets/a952aa3b-144e-4bda-a7f8-2d5016f83de9" />
-<img width="1800" height="896" alt="image" src="https://github.com/user-attachments/assets/dcb753fa-a2a4-414e-9a25-54ca5f3332ec" />
 
 
 ## 🤝 Contributing
